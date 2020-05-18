@@ -42,3 +42,23 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+### To Create a app
+npx create-react-app TestReactApp --template typescript
+
+https://reactjs.org/docs/thinking-in-react.html
+https://www.freecodecamp.org/news/server-side-rendering-your-react-app-in-three-simple-steps-7a82b95db82e/
+https://nextjs.org/
+https://hackr.io/blog/best-javascript-frameworks
+https://create-react-app.dev/docs/getting-started/
+https://create-react-app.dev/docs/updating-to-new-releases/
+
+### Using Feelix like UI component to achieve the UI behaviour
+https://material-ui.com/
+https://styled-components.com/docs/basics
+https://material-ui.com/getting-started/templates/
+https://www.typescriptlang.org/docs/handbook/tsconfig-json.html
+https://material-ui.com/styles/basics/
+
+### CI/CD
